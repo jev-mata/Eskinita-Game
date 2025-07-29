@@ -1,0 +1,4 @@
+repository "Eskinita Game 2025-06-26_18-03-34/Eskinita Game@18968303282151@cloud"
+  path "/"
+    br "/main"
+    co "/main"
